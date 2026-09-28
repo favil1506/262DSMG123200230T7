@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.unidad7ruta1ejercicio2.MarsApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-09-27T20:40:33.572Z" hostname="FABIAN" time="0.797">
+  <properties/>
+  <testcase name="fetchesMarsPhotos" classname="com.example.unidad7ruta1ejercicio2.MarsApiTest" time="0.797"/>
+  <system-out><![CDATA[Retrieved 838 photos, first=MarsPhoto(id=424905, imgSrc=https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631300503690E01_DXXX.jpg)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

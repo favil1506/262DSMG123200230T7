@@ -1,0 +1,20 @@
+<lint-module
+    format="1"
+    dir="E:\262DSMG123200230T7\Unidad7\Ruta2\Ejercicio1\app"
+    name=":app"
+    type="APP"
+    maven="Unidad7Ruta2Ejercicio1:app:unspecified"
+    agpVersion="9.3.3"
+    buildFolder="build"
+    bootClassPath="C:\Users\fabia\AppData\Local\Android\Sdk\platforms\android-37.0\android.jar;C:\Users\fabia\AppData\Local\Android\Sdk\build-tools\36.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-37.0"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

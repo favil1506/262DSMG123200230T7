@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.unidad7ruta2ejercicio2.network.GoogleBooksParsingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-28T14:50:45.203Z" hostname="FABIAN" time="0.002">
+  <properties/>
+  <testcase name="gson_parsesSearchResponse" classname="com.example.unidad7ruta2ejercicio2.network.GoogleBooksParsingTest" time="0.001"/>
+  <testcase name="gson_parsesSingleBook" classname="com.example.unidad7ruta2ejercicio2.network.GoogleBooksParsingTest" time="0.001"/>
+  <testcase name="gson_parsesResponseWithoutItems" classname="com.example.unidad7ruta2ejercicio2.network.GoogleBooksParsingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

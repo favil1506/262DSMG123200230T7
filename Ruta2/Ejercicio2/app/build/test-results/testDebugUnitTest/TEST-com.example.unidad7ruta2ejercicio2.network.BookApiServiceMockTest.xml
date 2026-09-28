@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.unidad7ruta2ejercicio2.network.BookApiServiceMockTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-28T14:50:44.944Z" hostname="FABIAN" time="0.258">
+  <properties/>
+  <testcase name="apiKeyInterceptor_omitsKeyWhenBlank" classname="com.example.unidad7ruta2ejercicio2.network.BookApiServiceMockTest" time="0.234"/>
+  <testcase name="bookApiService_searchBooks_sendsQueryAndParsesIds" classname="com.example.unidad7ruta2ejercicio2.network.BookApiServiceMockTest" time="0.009"/>
+  <testcase name="bookApiService_getBook_parsesThumbnail" classname="com.example.unidad7ruta2ejercicio2.network.BookApiServiceMockTest" time="0.008"/>
+  <testcase name="apiKeyInterceptor_addsKeyToRequest" classname="com.example.unidad7ruta2ejercicio2.network.BookApiServiceMockTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

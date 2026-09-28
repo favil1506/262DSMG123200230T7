@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.racetracker.RaceParticipantTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-09-27T20:05:49" hostname="FABIAN" time="0.12">
+  <properties/>
+  <testcase name="raceParticipant_RacePausedAndResumed_ProgressUpdated" classname="com.example.racetracker.RaceParticipantTest" time="0.091"/>
+  <testcase name="raceParticipant_RacePaused_ProgressUpdated" classname="com.example.racetracker.RaceParticipantTest" time="0.004"/>
+  <testcase name="raceParticipant_ProgressIncrementZero_ExceptionThrown" classname="com.example.racetracker.RaceParticipantTest" time="0.004"/>
+  <testcase name="raceParticipant_RaceStarted_ProgressUpdated" classname="com.example.racetracker.RaceParticipantTest" time="0.013"/>
+  <testcase name="raceParticipant_MaxProgressZero_ExceptionThrown" classname="com.example.racetracker.RaceParticipantTest" time="0.001"/>
+  <testcase name="raceParticipant_RaceFinished_ProgressUpdated" classname="com.example.racetracker.RaceParticipantTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

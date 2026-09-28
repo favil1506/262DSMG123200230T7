@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.unidad7ruta2ejercicio1.AmphibianTranslationsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-27T21:46:15.736Z" hostname="FABIAN" time="0.028">
+  <properties/>
+  <testcase name="images_are_not_changed_by_translation" classname="com.example.unidad7ruta2ejercicio1.AmphibianTranslationsTest" time="0.014"/>
+  <testcase name="unknown_amphibian_is_kept_unchanged" classname="com.example.unidad7ruta2ejercicio1.AmphibianTranslationsTest" time="0.001"/>
+  <testcase name="amphibians_are_translated_to_spanish" classname="com.example.unidad7ruta2ejercicio1.AmphibianTranslationsTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

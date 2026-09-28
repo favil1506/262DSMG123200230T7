@@ -1,0 +1,23 @@
+com.example.unidad7ruta2ejercicio1
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+dimen padding_medium
+drawable ic_broken_image
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable loading_img
+mipmap ic_launcher
+mipmap ic_launcher_round
+string amphibian_title
+string app_name
+string loading
+string loading_failed
+string retry
+style Theme_Unidad7Ruta2Ejercicio1
+xml backup_rules
+xml data_extraction_rules

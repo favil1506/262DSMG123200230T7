@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="bookshelf_title">Bookshelf</string>
+    <string name="search_books_label">Buscar libros</string>
+    <string name="loading_books">Cargando libros…</string>
+    <string name="error_loading_books">No se pudieron cargar los libros.</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_books">No se encontraron libros.</string>
+</resources>

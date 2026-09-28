@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.unidad7ruta1ejercicio2.app-mergeDebugResources-35:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fabia\\.gradle\\caches\\9.5.0\\transforms\\70217b487dd91c8bbab5defe9b37cf82\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
